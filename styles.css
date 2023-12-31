@@ -1,0 +1,20 @@
+* {
+	font-family: "Georgia", serif;
+}
+
+img {
+	width: 400px;
+	height: auto;
+}
+
+ul {
+	background-color: #FFA0C0;
+}
+
+ol {
+	background-color: #A0C0FF;
+}
+
+ul, ol, p {
+	font-size: 20px;
+}
