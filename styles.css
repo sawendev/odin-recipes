@@ -1,5 +1,6 @@
 * {
 	font-family: "Georgia", serif;
+	font-size: 20px;
 }
 
 img {
@@ -7,14 +8,19 @@ img {
 	height: auto;
 }
 
-ul {
+h1 {
+	font-size: 40px;
+}
+
+h2 {
+	font-size: 30px;
+}
+
+.recipe {
 	background-color: #FFA0C0;
-}
-
-ol {
-	background-color: #A0C0FF;
-}
-
-ul, ol, p {
-	font-size: 20px;
+	margin: 20px;
+	padding: 20px;
+	border: 3px solid #FF4040;
+	border-radius: 20px;
+	width: fit-content;
 }
